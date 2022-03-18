@@ -1,0 +1,5 @@
+[3/18/2022 9:29:36 PM]	Vlad Vlad[1] student in group 1 was created
+[3/18/2022 9:29:36 PM]	Student 1 was marked with 10, Present, Good boy on lesson 1, in register 1
+[3/18/2022 9:29:36 PM]	[Student 1] Student mark should be an int from 1 to 10 (Parameter 'mark')
+[3/18/2022 9:29:36 PM]	[Student 1] Input attendance status does not exist (Parameter 'status')
+[3/18/2022 9:29:36 PM]	Student name shouldn't be a null string, empty string, or a whitespace (Parameter 'name')

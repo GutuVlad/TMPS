@@ -1,0 +1,15 @@
+C:\Users\37360\Desktop\TMPStt\TMPS\lab1\Singleton&Factory\bin\Debug\net6.0\Singleton&Factory.exe
+C:\Users\37360\Desktop\TMPStt\TMPS\lab1\Singleton&Factory\bin\Debug\net6.0\Singleton&Factory.deps.json
+C:\Users\37360\Desktop\TMPStt\TMPS\lab1\Singleton&Factory\bin\Debug\net6.0\Singleton&Factory.runtimeconfig.json
+C:\Users\37360\Desktop\TMPStt\TMPS\lab1\Singleton&Factory\bin\Debug\net6.0\Singleton&Factory.dll
+C:\Users\37360\Desktop\TMPStt\TMPS\lab1\Singleton&Factory\bin\Debug\net6.0\Singleton&Factory.pdb
+C:\Users\37360\Desktop\TMPStt\TMPS\lab1\Singleton&Factory\obj\Debug\net6.0\Singleton&Factory.csproj.AssemblyReference.cache
+C:\Users\37360\Desktop\TMPStt\TMPS\lab1\Singleton&Factory\obj\Debug\net6.0\Singleton&Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37360\Desktop\TMPStt\TMPS\lab1\Singleton&Factory\obj\Debug\net6.0\Singleton&Factory.AssemblyInfoInputs.cache
+C:\Users\37360\Desktop\TMPStt\TMPS\lab1\Singleton&Factory\obj\Debug\net6.0\Singleton&Factory.AssemblyInfo.cs
+C:\Users\37360\Desktop\TMPStt\TMPS\lab1\Singleton&Factory\obj\Debug\net6.0\Singleton&Factory.csproj.CoreCompileInputs.cache
+C:\Users\37360\Desktop\TMPStt\TMPS\lab1\Singleton&Factory\obj\Debug\net6.0\Singleton&Factory.dll
+C:\Users\37360\Desktop\TMPStt\TMPS\lab1\Singleton&Factory\obj\Debug\net6.0\refint\Singleton&Factory.dll
+C:\Users\37360\Desktop\TMPStt\TMPS\lab1\Singleton&Factory\obj\Debug\net6.0\Singleton&Factory.pdb
+C:\Users\37360\Desktop\TMPStt\TMPS\lab1\Singleton&Factory\obj\Debug\net6.0\Singleton&Factory.genruntimeconfig.cache
+C:\Users\37360\Desktop\TMPStt\TMPS\lab1\Singleton&Factory\obj\Debug\net6.0\ref\Singleton&Factory.dll
